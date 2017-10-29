@@ -15,6 +15,6 @@ public class GitJenkinsIntegrationExampleApplication {
 	
 	@RequestMapping("/test")
 	public String test(){
-		return "hollo world.";
+		return "hollo world.Modified";
 	}
 }
